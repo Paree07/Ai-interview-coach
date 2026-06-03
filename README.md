@@ -1,5 +1,7 @@
 # AI Interview Coach
-AI Interview Coach - An AI-powered interview preparation tool that generates interview questions and evaluates answers using Gemini AI.
+
+🚀 Live App: https://ai-interview-coach-o87dabu7uwbyr2xh5twmr4.streamlit.app/
+📂 GitHub Repository: https://github.com/Paree07/Ai-interview-coach
 
 ## Overview
 AI Interview Coach is an AI-powered interview preparation tool that generates interview questions and evaluates answers using Google's Gemini AI.
